@@ -1,7 +1,7 @@
 ### Luis Dutra 
 
-- 🔭 Currently working on **Front-End Development**.
-- 🌱 Currently learning **JavaScript**.
+- 🔭 I'm Currently working on **Front-End Development**.
+- 🌱 I'm Currently learning **JavaScript**.
 
 <div align="center">
   <a href="https://github.com/luissdt">
