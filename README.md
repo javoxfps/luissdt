@@ -1,4 +1,4 @@
-### Hey there 👋
+### Hey there!
 
 - 🔭 Currently working on **Front-End Development**.
 - 🌱 Currently learning **JavaScript**.
