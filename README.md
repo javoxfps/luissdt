@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hey there 👋
 
-- 🔭 I’m currently working on **Front-End Development**.
-- 🌱 I’m currently learning **JavaScript**.
+- 🔭 Currently working on **Front-End Development**.
+- 🌱 Currently learning **JavaScript**.
 
 <div align="center">
   <a href="https://github.com/luissdt">
