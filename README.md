@@ -10,7 +10,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="left" alt="Dutra-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Dutra-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Dutra-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Dutra-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
 <img align="right" alt="Dutra-Pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/88400199?v=4">
