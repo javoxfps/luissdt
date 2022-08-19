@@ -5,12 +5,15 @@
 <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luissdt&theme=radical"/> 
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Dutra-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Dutra-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Dutra-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
 <img align="right" alt="Dutra-Pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/88400199?v=4">
 </div>
   
+![icons8-html-5 (1)](https://user-images.githubusercontent.com/97412434/155586433-60a6dfe2-28ac-4f4d-ac0d-8bd1262ee9ff.svg)
+![icons8-css3 (1)](https://user-images.githubusercontent.com/97412434/155586627-c3078866-833f-4022-90bb-a5133cce86c7.svg)
+![icons8-javascript (1)](https://user-images.githubusercontent.com/97412434/155586786-f8c5df76-d1e9-4f08-b0ff-8663ce6a1d4c.svg)
+![icons8-visual-studio-code-2019](https://user-images.githubusercontent.com/97412434/155587257-0660de9b-6318-4178-9904-cacaa9259c6c.svg)
+![icons8-figma (1)](https://user-images.githubusercontent.com/97412434/155587393-11c563c0-8d83-4b8c-acba-8acaec1d528f.svg)
+
   ##
 
 <div> 
