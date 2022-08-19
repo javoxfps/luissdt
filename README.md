@@ -14,7 +14,7 @@
 ![icons8-visual-studio-code-2019](https://user-images.githubusercontent.com/97412434/155587257-0660de9b-6318-4178-9904-cacaa9259c6c.svg)
 ![icons8-figma (1)](https://user-images.githubusercontent.com/97412434/155587393-11c563c0-8d83-4b8c-acba-8acaec1d528f.svg)
 
-  ##
+  __________________________________________________
 
 <div> 
   <a href="https://instagram.com/luissdt" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
