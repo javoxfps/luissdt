@@ -5,7 +5,6 @@
 <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luissdt&theme=radical"/> 
 </div>
 <div style="display: inline_block"><br>
-<img align="right" alt="Dutra-Pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/88400199?v=4">
 </div>
   
 ![icons8-html-5 (1)](https://user-images.githubusercontent.com/97412434/155586433-60a6dfe2-28ac-4f4d-ac0d-8bd1262ee9ff.svg)
@@ -15,7 +14,6 @@
 ![icons8-figma (1)](https://user-images.githubusercontent.com/97412434/155587393-11c563c0-8d83-4b8c-acba-8acaec1d528f.svg)
 
   __________________________________________________
-
 <div> 
   <a href="https://instagram.com/luissdt" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.com/972551598272299009" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
