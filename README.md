@@ -8,7 +8,6 @@
 ![icons8-html-5 (1)](https://user-images.githubusercontent.com/97412434/155586433-60a6dfe2-28ac-4f4d-ac0d-8bd1262ee9ff.svg)
 ![icons8-css3 (1)](https://user-images.githubusercontent.com/97412434/155586627-c3078866-833f-4022-90bb-a5133cce86c7.svg)
 ![icons8-javascript (1)](https://user-images.githubusercontent.com/97412434/155586786-f8c5df76-d1e9-4f08-b0ff-8663ce6a1d4c.svg)
-![icons8-visual-studio-code-2019](https://user-images.githubusercontent.com/97412434/155587257-0660de9b-6318-4178-9904-cacaa9259c6c.svg)
 ![icons8-figma (1)](https://user-images.githubusercontent.com/97412434/155587393-11c563c0-8d83-4b8c-acba-8acaec1d528f.svg)
 
   __________________________________________________
